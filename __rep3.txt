@@ -1,0 +1,15 @@
+Accomplished the program planning, execution, quality control and UAT. Leveraging  MS Project and JIRA.
+Coordinated a cross-functional team of 110+ people distributed across four locations (Krakow, St. Petersburg, Minsk, Gomel). Hired / fired / trained / coached  Software Engineers. Achieved consistent delivery team velocity.
+Set up system design, software development, and QA processes, including functional design, UX design, integration design (including schedule for partners and dependencies), UI implementation, testing (automation, UI, functional, regression, security, performance). 
+Established and enforced automated testing frameworks, deployment workflows, and CI/CD processes to ensure the quality and reliability of software products and reduce infrastructure-induced delays, resulting in a 44% improvement in testing efficiency and a more seamless software delivery process.
+Drove technology innovation, efficiency improvements  and change management process. Implemented on demand AWS infrastructure and CI/CD. That reduced infrastructure caused delays by 44%.
+Led changes to the customers enterprise architecture, content and data migration from legacy systems, and end user training.
+Led research and data collection to identify real challenges and trends of the future System Architecture of computing, storage and network.
+Developed and enforced automated testing frameworks to ensure proper testing of functional, performance, resilience, and system aspects.
+Established release management and deployment workflow processes from development release through staging and production deployment.
+Built and maintained roadmap for integrating omni-channel technologies into the Hybris Commerce platform.
+Developed and implemented a comprehensive plan for improving operational efficiency within the organization, focusing on building infrastructure as code and automating the deployment process.
+Implemented engineering standards and processes to ensure high product quality and velocity, resulting in improved efficiency and customer satisfaction.
+Mentored junior engineers and fostered a culture of engineering craftsmanship, emphasizing testing, continuous integration, and deployment.
+Proactively identified and implemented optimizations and improvements to infrastructure and systems, driving efficiency and reliability.
+Implemented agile processes and best practices to drive efficiency and velocity, resulting in a 20% reduction in project timelines and improved customer satisfaction. 

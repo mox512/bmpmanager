@@ -1,0 +1,25 @@
+This role entailed executing on a global scale across 4+ time zones within a value-driven matrix organization, achieving and exceeding corporate OKRs by 12%.
+Defined milestones, success criteria, resource allocation, dependencies, execution strategy for the complex technology program with up to 100+ members.
+Ensured successful on-time delivery. Monitored and improved program performance (up by 12%) to maximize ROI.
+Hired, mentored and guided 7+ Engineering Managers and Technical PMs, advising in all technical, organizational, program management, financial and ethical aspects. 
+Fostered a diverse community of managers through an altruistic servant-leadership approach, inspiring and encouraging professional growth. 
+Drove more than 20 cross-functional RFP/RFI response teams. Assured delivery of high quality presentations and proposal materials in a designated timeline. With RFP award rate up to 78%.
+Ensured that the organizations quality management system compliance with ISO 9001 requirements. By preparing, validating documentation and processes,  acted  as liaison with the auditor.
+Initiated and established the program governance with stakeholders and Vendor Management. Facilitated effective decision-making by executives. Identified and mitigated project risks. Managed external dependencies. Builded relationships to influence without authority.
+Pioneered technology innovation,Cloud adoption and Agile practices. Identified and executed engineering process optimization opportunities and DevOps productivity improvements that increased program velocity by 12%.
+Investigated and assessed 3rd party vendor capabilities for successful integration with solutions.
+Executing on a global scale across 4+ time zones within a value-driven matrix organization, achieving and exceeding corporate OKRs by 12%.
+Optimized project timelines by up to 12% with effective budgeting, scoping, and resource allocation in order to successfully deliver application transformation programs.
+Directed collaborative and inclusive work environment across multiple regions and disciplines to develop high-quality Cloud-based applications.
+Collaborated with application teams to analyze their workload character and optimized hardware/software performance and power for efficient infrastructure resources.
+Improved budgeting and resource planning by creating toolset for engineering teams to achieve shift left testing.
+Fostered a culture of best practices by hosting Lunch n' Learn sessions for the engineering organization.
+Anticipated stakeholder needs and proactively developed and discussed potential solutions to complex business issues, leveraging specialized expertise in application development, cloud platforms (Azure/AWS/Google), and service-oriented architecture to deliver innovative and scalable solutions that exceeded stakeholder expectations.
+Built strong working relationships with internal teams, client stakeholders, and industry partners, establishing trust and facilitating open and honest conversations to ensure alignment and successful delivery of digital transformation programs on a global scale across multiple time zones.
+Collaborated with stakeholders to define and execute a metrics-driven approach to product health reporting, providing valuable insights for decision-making and driving improvements in speed, quality, and value of software products.
+Spearheaded the development of technical design documents, outlining the architecture for SaaS implementation based on cutting-edge GCP components, resulting in a robust and scalable system.
+Led the creation and management of a high-performing team of engineering managers and individual contributors, fostering innovation and technical skill enhancement to drive the successful delivery of organizational strategies.
+Implemented engineering standards and processes to ensure the highest level of excellence in product quality and velocity, resulting in accelerated development timelines and improved customer satisfaction.
+Collaborated with technical leads in designing large-scale systems, making tradeoffs for long-term maintainability and risk reduction.
+Spearheaded the implementation of culture and process improvements across the engineering organization, including advocating for diversity and inclusion initiatives and driving adoption of best practices.
+
