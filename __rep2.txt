@@ -22,4 +22,7 @@ Led the creation and management of a high-performing team of engineering manager
 Implemented engineering standards and processes to ensure the highest level of excellence in product quality and velocity, resulting in accelerated development timelines and improved customer satisfaction.
 Collaborated with technical leads in designing large-scale systems, making tradeoffs for long-term maintainability and risk reduction.
 Spearheaded the implementation of culture and process improvements across the engineering organization, including advocating for diversity and inclusion initiatives and driving adoption of best practices.
+Led successful implementation of lean/agile concepts and transformation strategies, improving delivery efficiency and optimizing organizational processes.
+Collaborated with department leaders to translate corporate strategy into detailed roadmaps, timelines, and deliverables, resulting in effective execution.
+Developed and executed a roadmap for the engineering team, resulting in successful delivery of digital products and adherence to project milestones
 

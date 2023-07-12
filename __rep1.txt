@@ -7,7 +7,6 @@ Approached delivery with architectural principles in mind to ensure scalability 
 Championed data-driven decision making and technical innovation with custom analytics reports, critical path analysis, and team performance dashboard metrices.
 Mentored a team of Software Developers, guiding them in technical, organizational, program management and financial aspects to develop high-quality cloud-based applications.
 Improved team performance through data-driven decision making and trend analysis provided to peers and senior management.
-Developed and executed a roadmap for implementing cloud-based SaaS solutions, leveraging architectural principles for scalability and collaboration within cross-functional teams.
 Spearheaded the building of a high-performing team of Software Developers, providing guidance in technical and organizational aspects, leading to the development of high-quality cloud-based applications.
 Built a roadmap for the engineering team, outlining the steps and milestones necessary for successful delivery of digital products, utilizing scalable and collaborative architectural principles.
 Successfully built and managed a team of engineering managers and individual contributors, fostering collaboration, innovation, and technical skill enhancement to deliver against organizational strategies. 
@@ -15,5 +14,7 @@ Collaborated with non-technical teams to define technical estimates and tradeoff
 Conducted market research and analysis to identify opportunities for new product development, leading to the successful launch of innovative features that met customer needs.
 Implemented and optimized processes, resource allocation, and risk management strategies to ensure high performance and successful execution of features.
 Implemented Agile development methodologies and processes, including sprint planning and retrospectives, to improve engineering team efficiency and delivery cadence in an agile environment.
+Collaborated cross-functionally to prioritize needs, build productive relationships, and hold teams accountable for deliverables, resulting in improved alignment and transparency across the organization.
+Utilized machine learning frameworks for API traffic classification, enhancing the accuracy and efficiency of Google's cloud API security SaaS product.
 
 

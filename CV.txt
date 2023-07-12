@@ -8,31 +8,31 @@ Mobile: (650) 229-30-65, Palo Alto, CA
 A tech enthusiast from an early age, I have established a successful 20-year career in the IT sector. I have led and executed over 15+ complex digital transformation projects, e-commerce, SaaS, AI/ML, and Web development initiatives in diverse industries including oil and gas, retail, banking, brokerage, insurance, and IT. I've led teams of up to 100+ members, fostering collaboration and technical skills enhancement and innovation. My unwavering commitment to delivering within agreed timelines and budgets has consistently resulted in the successful completion of digital transformation programs with up to 12% reduction in project timelines.
 Recent experience / work history:
 Title: Delivery Director. Company: EPAM at Google. From: April 2022 to April 2023 
-Led the design and delivery of Google's customer-facing cloud API security SaaS product, leveraging two Machine Learning models to identify and classify API traffic. Role encompasses all aspects of end-to-end software product delivery (SDLC). 
-- Improved team performance through data-driven decision making and trend analysis provided to peers and senior management.
+Led the design and delivery of Google's customer-facing cloud API security SaaS product, leveraging two Machine Learning models to identify and classify API traffic. 
+- Mentored a team of Software Developers, guiding them in technical, organizational, program management and financial aspects to develop high-quality cloud-based applications.
+- Approached delivery with architectural principles in mind to ensure scalability and collaboration between teams.
+- Implemented Agile development methodologies and processes, including sprint planning and retrospectives, to improve engineering team efficiency and delivery cadence in an agile environment.
 - Championed data driven decision making with custom analytics reports, critical path analysis,  team performance dashboard. 
-- Championed data-driven decision making and technical innovation with custom analytics reports, critical path analysis, and team performance dashboard metrices.
-- Served as the Scrum Master, driving Agile rituals and fostering a continuous improvement culture within a distributed cross-functional team to ensure the smooth delivery of the product.
-- Built a roadmap for the engineering team, outlining the steps and milestones necessary for successful delivery of digital products, utilizing scalable and collaborative architectural principles.
-- Developed and executed a roadmap for implementing cloud-based SaaS solutions, leveraging architectural principles for scalability and collaboration within cross-functional teams.
+- Spearheaded the building of a high-performing team of Software Developers, providing guidance in technical and organizational aspects, leading to the development of high-quality cloud-based applications.
+- Successfully built and managed a team of engineering managers and individual contributors, fostering collaboration, innovation, and technical skill enhancement to deliver against organizational strategies. 
 
 Title: Delivery Director. Company: EPAM at Google. From: April 2017 to March 2022 
 Directed the delivery program for Google with the budget up to $18m/y, bringing together the implementation of best practices in the IT industry, technical expertise, and mentoring. 
+- Spearheaded the implementation of culture and process improvements across the engineering organization, including advocating for diversity and inclusion initiatives and driving adoption of best practices.
+- Collaborated with stakeholders to define and execute a metrics-driven approach to product health reporting, providing valuable insights for decision-making and driving improvements in speed, quality, and value of software products.
 - Hired, mentored and guided 7+ Engineering Managers and Technical PMs, advising in all technical, organizational, program management, financial and ethical aspects. 
 - Pioneered technology innovation,Cloud adoption and Agile practices. Identified and executed engineering process optimization opportunities and DevOps productivity improvements that increased program velocity by 12%.
-- Implemented engineering standards and processes to ensure the highest level of excellence in product quality and velocity, resulting in accelerated development timelines and improved customer satisfaction.
-- Collaborated with stakeholders to define and execute a metrics-driven approach to product health reporting, providing valuable insights for decision-making and driving improvements in speed, quality, and value of software products.
-- Optimized project timelines by up to 12% with effective budgeting, scoping, and resource allocation in order to successfully deliver application transformation programs.
 - Led the creation and management of a high-performing team of engineering managers and individual contributors, fostering innovation and technical skill enhancement to drive the successful delivery of organizational strategies.
+- Optimized project timelines by up to 12% with effective budgeting, scoping, and resource allocation in order to successfully deliver application transformation programs.
 
 Title: Delivery Manager. Company: EPAM at Amway. From: July 2016 to March 2017
 Spearheaded customer’s digital transformation and E-commerce OMNI channel implementation, which included the SAP Hybris platform development. 
-- Set up system design, software development, and QA processes, including functional design, UX design, integration design (including schedule for partners and dependencies), UI implementation, testing (automation, UI, functional, regression, security, performance). 
-- Developed and enforced automated testing frameworks to ensure proper testing of functional, performance, resilience, and system aspects.
-- Established and enforced automated testing frameworks, deployment workflows, and CI/CD processes to ensure the quality and reliability of software products and reduce infrastructure-induced delays, resulting in a 44% improvement in testing efficiency and a more seamless software delivery process.
-- Mentored junior engineers and fostered a culture of engineering craftsmanship, emphasizing testing, continuous integration, and deployment.
 - Drove technology innovation, efficiency improvements  and change management process. Implemented on demand AWS infrastructure and CI/CD. That reduced infrastructure caused delays by 44%.
-- Coordinated a cross-functional team of 110+ people distributed across four locations (Krakow, St. Petersburg, Minsk, Gomel). Hired / fired / trained / coached  Software Engineers. Achieved consistent delivery team velocity.
+- Established and enforced automated testing frameworks, deployment workflows, and CI/CD processes to ensure the quality and reliability of software products and reduce infrastructure-induced delays, resulting in a 44% improvement in testing efficiency and a more seamless software delivery process.
+- Developed and implemented a comprehensive plan for improving operational efficiency within the organization, focusing on building infrastructure as code and automating the deployment process.
+- Led the adoption of cloud-based deployments using containers, ensuring efficient and scalable software releases.
+- Demonstrated expertise in roadmap planning, change control, forecasting, and release process management for software development initiatives. 
+- Developed and enforced automated testing frameworks to ensure proper testing of functional, performance, resilience, and system aspects.
 
 Education:
 Masters Degree at Perm State University / Russia.

@@ -1,5 +1,4 @@
 import openai
-import pyperclip
 import subprocess
 from docx import Document
 
@@ -15,8 +14,6 @@ def beep(frequency=1000, duration=500):
 with open('openai.key','r') as key_file:
     openai.api_key=key_file.read().strip()
 
-#export PYTHONIOENCODING=UTF-8
-
 def generate_completion(prompt):
     response = openai.Completion.create(
         engine="text-davinci-003",
@@ -26,12 +23,14 @@ def generate_completion(prompt):
         stop=None,
         temperature=1,
     )
-    print("+RRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
-    print(response)  # Print the full response object for troubleshooting
-    print("-RRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
+    #print("+RRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
+    #print(response)  # Print the full response object for troubleshooting
+    #print("-RRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
     return response.choices[0].text.strip()
 
-JDdoc=pyperclip.paste()
+#JDdoc=pyperclip.paste()
+with open('JD.txt', 'r') as file:
+    JDdoc = file.read()
 JD = f"<<<JD START>>>{JDdoc}<<<JD END>>>"
 #print(JD)
 
@@ -53,5 +52,5 @@ save_as_docx(resultCV,"Cover_letter.docx")
 
 print('=File saved=')
 
-pyperclip.copy(resultCV)
+#pyperclip.copy(resultCV)
 beep()

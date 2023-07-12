@@ -1,40 +1,29 @@
-We are looking for professionals who are interested in sharing their past and future acquired industry experience with our clients to help them improve operations, meet business objectives, and find ways to apply technology and know how to achieve these objectives. We are seeking a Director of Product Engineering with an active-oriented mindset and a focus on exceeding expectations, who operates with vision and integrity. The Director of Product Engineering can expect to play an active role in the development and completion of projects, meet and report back to upper management, plan and monitor work schedules and cash flows, and work with multiple and diverse teams. Some of their responsibilities also include aligning engineering activities and projects with company goals and objectives, providing expert guidance and support, approving newly developed policies from various departments, and maintaining positive relationships with both internal and external stakeholders.
+The purpose of a Senior Product Manager is to be a key figure in driving our flagship XCover consumer product roadmap. The role will report to the VP of Product - and you will work closely together in defining product deliverables, leading and influencing a cross functional team through sprints, creating well articulated documentation and ultimately being a pivotal figure in the achievement of go to market deadlines. You will also have a focus on keeping close to market activity that may impact the product, consulting internally and having a key voice in the direction and trajectory of the roadmap.
 
-POSITION TITLE: Director of Product Engineering
+What your working week will involve;
 
-REPORTS TO: Chief Technology Officer VP, Product Development
+Day to day management of software engineering product team and support of partnership team with customer-centric solutions
+Work closely with a number of stakeholders to gather requirements and be in charge of designing the solutions
+Finding and implementing growth opportunities
+Writing product specifications
+Exploratory data analysis to uncover insights and product opportunities using SQL, Big Query &/or Tableau
+Reporting including presenting commentary at meetings as needed
+Continuing development of depth of knowledge of specific product lines, including coverage innovations and pricing changes, and regulatory developments
 
-POSITION DESCRIPTION:
+Educational Qualifications;
 
-To be successful as the Director of Product Engineering, you should have exceptional leadership, communication, and project management skills, years of management experience, and a belief in developing the skills and talents of others. Ideal candidates will have experience in identifying and navigating organizational changes, a keen interest in international trends in engineering and leadership, and above-average emotional intelligence.
+Bachelors or higher degree in related field is required.
 
-ESSENTIAL JOB FUNCTIONS:
+What the ideal profile looks like;
 
-· Identify functional related requirements from clients
-
-· Reporting to the CTO and VP of Product Development
-
-· Maintaining good relationships with internal and external stakeholders.
-
-· Implementing best practice engineering methods.
-
-· Providing technical guidance to engineering teams and top management.
-
-· Supporting established organizational objectives by developing goals and strategies.
-
-· Presenting budgets and plans.
-
-· Finding and implementing ways to improve cost-efficiency.
-
-MINIMUM QUALIFICATIONS:
-
-· Bachelor’s degree in Computer Science, IT, Engineering, Business or equivalent (Master’s degree preferred).
-
-· 8+ years of experience in management.
-
-· Action-mindset.
-
-· Up-to-date knowledge of the industry.
-
-Please note currently we are not able to support applicants requiring visa sponsorship.
-
+5-7 years of product management or software engineering experience
+Experience with consumer facing product development and applying best practices to improve the customer experience and conversion
+Understanding and/or hands-on experience in software development and web technologies
+Experience with agile project management methodology
+Demonstrated passion for the web, technology, startups etc with a deep understanding of product strategy theory and clear intent to make the transition
+Excellent people management and engagement skills
+Passion, drive, confidence and commitment
+Proven ability to communicate complex ideas in a clear, concise manner both verbally and in writing
+Strong management and engagement skills
+Experience in a fast growing startup or similarly high growth global internet company
+Proven track record of increasing revenue through product innovation

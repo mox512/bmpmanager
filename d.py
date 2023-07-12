@@ -36,12 +36,12 @@ def docx_replace(old_file, new_file, replacements):
                     paragraph.text = paragraph.text.replace(key, replacements[key])
     doc.save(new_file)
 
-
+totalrate=0
 def prep_rep(JD):
     global run_id
     replacements = {}
     reps = ["__rep1", "__rep2", "__rep3"]
-    totalrate=0
+    global totalrate
     for rep in reps:
 
         # repsa = []
@@ -156,7 +156,7 @@ replacements = prep_rep(JD)
 # print('----^-----')
 
 current_time = datetime.datetime.now()
-mfilename = current_time.strftime("CV_%H_%M%S")
+mfilename = "CV_"+str(totalrate)+"_"+current_time.strftime("_%H_%M%S")
 old_file = "__cv.docx"
 docx_replace(old_file, mfilename + ".docx", replacements)
 
