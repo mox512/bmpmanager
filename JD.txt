@@ -1,29 +1,26 @@
-The purpose of a Senior Product Manager is to be a key figure in driving our flagship XCover consumer product roadmap. The role will report to the VP of Product - and you will work closely together in defining product deliverables, leading and influencing a cross functional team through sprints, creating well articulated documentation and ultimately being a pivotal figure in the achievement of go to market deadlines. You will also have a focus on keeping close to market activity that may impact the product, consulting internally and having a key voice in the direction and trajectory of the roadmap.
+Ideal candidates have a strong technical background and business acumen with prior IT experience and interest in product management from the vendor/partner perspective. Candidates in this role demonstrate a desire to continue personal learning and career development while working in cross-functional teams at a fast-moving, highly successful company. As part of the product management team, the product manager position bridges technical and business worlds, ensuring a focus and priority on existing customers and solutions while evaluating and placing product investment aligned to long term strategy and success.
 
-What your working week will involve;
+Job Responsibilities
 
-Day to day management of software engineering product team and support of partnership team with customer-centric solutions
-Work closely with a number of stakeholders to gather requirements and be in charge of designing the solutions
-Finding and implementing growth opportunities
-Writing product specifications
-Exploratory data analysis to uncover insights and product opportunities using SQL, Big Query &/or Tableau
-Reporting including presenting commentary at meetings as needed
-Continuing development of depth of knowledge of specific product lines, including coverage innovations and pricing changes, and regulatory developments
+Drive product, feature and component level requirements definition for Citrix products based on Finance Industry needs to make organizations successful resulting in expanded Citrix deployments.
+Work with the account teams to better equip and demonstrate the value of Citrix.
+Lead customer briefings on Citrix technologies, listen to requirements and help translate into potential product features.
+Participate and define the business, product strategy and annual operating plan for Citrix business through partners with growth trajectory for ARR and bottom line
+Guide the prioritization and planning with various product and engineering teams to execute on partner requirements in Citrix products
+Effectively execute on the product requirements with Citrix engineering team to release with high quality and specification required by finance customers, and drive adoption for the products
+Effectively communicate and collaborate with external & internal stakeholders throughout the organization to determine goals and drive visibility and alignment on progress towards objectives
+Propose, initiate and prioritize products/projects within the product group to progress business goals. Assist in determining the best solution, provide data driven validation, and measure success of team objectives, including authoring outcome-based goals and KPIs
+Lead the market validation activities, such as partner prospect interviews and market analysis as part of new product or feature planning.
 
-Educational Qualifications;
+Knowledge and Skills
 
-Bachelors or higher degree in related field is required.
-
-What the ideal profile looks like;
-
-5-7 years of product management or software engineering experience
-Experience with consumer facing product development and applying best practices to improve the customer experience and conversion
-Understanding and/or hands-on experience in software development and web technologies
-Experience with agile project management methodology
-Demonstrated passion for the web, technology, startups etc with a deep understanding of product strategy theory and clear intent to make the transition
-Excellent people management and engagement skills
-Passion, drive, confidence and commitment
-Proven ability to communicate complex ideas in a clear, concise manner both verbally and in writing
-Strong management and engagement skills
-Experience in a fast growing startup or similarly high growth global internet company
-Proven track record of increasing revenue through product innovation
+10+ years’ experience in IT organization and Product management/Sales Engineering/Technology Consulting or related discipline for enterprise software
+Experience with Finance industry regulatory and compliance requirements.
+Experience with virtualization, ZTNA, cloud technologies in hybrid and SaaS computing model
+Experience with highly technical products; direct experience with cloud, SaaS a plus
+Experience presenting to customers, partners, internal teams and leadership on a regular basis; ability to solicit and synthesize input from customers and internal stakeholders
+Experience developing productive relationships externally & internally and coordinating product management across product development, technical support, pre-sales, sales, service delivery and partner organizations
+Demonstrated ability to collaborate, influence and gain the cooperation necessary across the organization to successfully deliver to schedules/deadlines
+Ability to develop a well-conceived and carefully constructed product requirements
+Develop a deep understanding of the Citrix product line, the technical architecture & security of the product and its association with other products
+Should be hands on with the products in order to demo and in some cases setup the environment.
