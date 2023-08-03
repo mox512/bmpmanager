@@ -9,12 +9,13 @@ Developed and enforced automated testing frameworks to ensure proper testing of 
 Established release management and deployment workflow processes from development release through staging and production deployment.
 Built and maintained roadmap for integrating omni-channel technologies into the Hybris Commerce platform.
 Developed and implemented a comprehensive plan for improving operational efficiency within the organization, focusing on building infrastructure as code and automating the deployment process.
-Implemented engineering standards and processes to ensure high product quality and velocity, resulting in improved efficiency and customer satisfaction.
 Mentored junior engineers and fostered a culture of engineering craftsmanship, emphasizing testing, continuous integration, and deployment.
 Proactively identified and implemented optimizations and improvements to infrastructure and systems, driving efficiency and reliability.
-Implemented agile processes and best practices to drive efficiency and velocity, resulting in a 20% reduction in project timelines and improved customer satisfaction. 
+Championed Agile adoption, optimizing efficiency, and achieving a 20% reduction in project timelines while enhancing customer satisfaction in a continuous deployment setting.
 Implemented Release Train Engineering practices, driving agile transformation and fostering collaboration and efficiency across teams.
-Demonstrated expertise in roadmap planning, change control, forecasting, and release process management for software development initiatives. 
 Established standard reports to provide concise and effective communications on program status, issues/risks, and accomplishments to key stakeholders.
 Led the adoption of cloud-based deployments using containers, ensuring efficient and scalable software releases.
-
+Led a multifunction team of Engineers to understand and assess customer requirements, prepare and present demonstrations of proposed solutions, and guide customers through implementation and deployment, resulting in successful customer adoption and business growth.
+Developed and enforced infrastructure-as-code practices, automating the deployment process and improving operational efficiency within the organization. 
+Implemented a SAFe Scaled Agile framework, ensuring team alignment and facilitating program level processes.
+Developed and executed talent acquisition strategies, attracting and hiring top engineering talent globally, resulting in the formation of high-performing teams and driving business growth.

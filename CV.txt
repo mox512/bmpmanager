@@ -1,5 +1,5 @@
 Denis Davydov
-Director IT services / SaaS system architect / Senior technical program manager (TPM)
+SW Engineering Director / SaaS system architect / Senior technical program manager (TPM)
 
 mox512@gmail.com 
 
@@ -8,31 +8,34 @@ Mobile: (650) 229-30-65, Palo Alto, CA
 A tech enthusiast from an early age, I have established a successful 20-year career in the IT sector. I have led and executed over 15+ complex digital transformation projects, e-commerce, SaaS, AI/ML, and Web development initiatives in diverse industries including oil and gas, retail, banking, brokerage, insurance, and IT. I've led teams of up to 100+ members, fostering collaboration and technical skills enhancement and innovation. My unwavering commitment to delivering within agreed timelines and budgets has consistently resulted in the successful completion of digital transformation programs with up to 12% reduction in project timelines.
 Recent experience / work history:
 Title: Delivery Director. Company: EPAM at Google. From: April 2022 to April 2023 
-Led the design and delivery of Google's customer-facing cloud API security SaaS product, leveraging two Machine Learning models to identify and classify API traffic. 
-- Utilized machine learning frameworks for API traffic classification, enhancing the accuracy and efficiency of Google's cloud API security SaaS product.
-- Expressed technical expertise on network, security and Web / SaaS implementation practices. Headed system design effort, resulted in more than 4 technical design documents laying out SaaS architecture based on GCP components such as Borg, BQML, Spanner, Pub/Sub, GraphQL.
-- Conducted market research and analysis to identify opportunities for new product development, leading to the successful launch of innovative features that met customer needs.
-- Strategized with Product Management team to define product implementation roadmap, schedule, success factors and KPIs.
-- Spearheaded the building of a high-performing team of Software Developers, providing guidance in technical and organizational aspects, leading to the development of high-quality cloud-based applications.
-- Directed cross regional and cross-functional team of 30+ Google full-time employees and contractors without direct authority. Nurtured inclusive and collaborative environment, motivated and mentored team members.
+Led the design and delivery of Google's customer-facing cloud API security SaaS product, leveraging two Machine Learning models to identify and classify API traffic. Google announcement: .
+- Led the development and implementation of automated testing frameworks, CI/CD processes, and deployment workflows, resulting in improved software quality and faster delivery cycles.
+- Implemented and optimized processes, resource allocation, and risk management strategies to ensure high performance and successful execution of features.
+- Implemented Agile development methodologies and processes, including sprint planning and retrospectives, to improve engineering team efficiency and delivery cadence in an agile environment.
+- Developed and implemented engineering standards and processes to improve product quality and velocity, resulting in accelerated development timelines and improved customer satisfaction.
+- Approached delivery with architectural principles in mind to ensure scalability and collaboration between teams.
+- Developed and deployed innovative ML models to enhance technical efficiencies and transform engineering practices, resulting in increased productivity and efficiency.
 
 Title: Delivery Director. Company: EPAM at Google. From: April 2017 to March 2022 
-Directed the delivery program for Google with the budget up to $18m/y, bringing together the implementation of best practices in the IT industry, technical expertise, and mentoring. 
-- Led the creation and management of a high-performing team of engineering managers and individual contributors, fostering innovation and technical skill enhancement to drive the successful delivery of organizational strategies.
+Directed the SW delivery program with up to $18m/y budget, bringing together the implementation of best practices in the IT industry, technical expertise, and mentoring. 
+- Developed and implemented scalable backend systems for processing and analyzing large volumes of data, improving overall system performance by 25%.
+- Drove continuous improvements through learnings from postmortem report, workshops, and retrospectives, optimizing team performance and delivering value.
+- Hired, mentored and guided 7+ Engineering Managers and Technical PMs, advising in all technical, organizational, program management, financial and ethical aspects. 
 - Anticipated stakeholder needs and proactively developed and discussed potential solutions to complex business issues, leveraging specialized expertise in application development, cloud platforms (Azure/AWS/Google), and service-oriented architecture to deliver innovative and scalable solutions that exceeded stakeholder expectations.
-- Spearheaded the implementation of culture and process improvements across the engineering organization, including advocating for diversity and inclusion initiatives and driving adoption of best practices.
-- Fostered a diverse community of managers through an altruistic servant-leadership approach, inspiring and encouraging professional growth. 
-- Built strong working relationships with internal teams, client stakeholders, and industry partners, establishing trust and facilitating open and honest conversations to ensure alignment and successful delivery of digital transformation programs on a global scale across multiple time zones.
-- Implemented engineering standards and processes to ensure the highest level of excellence in product quality and velocity, resulting in accelerated development timelines and improved customer satisfaction.
+- Collaborated with department leaders to translate corporate strategy into detailed roadmaps, timelines, and deliverables, resulting in effective execution.
+- Led the creation and management of a high-performing team of engineering managers and individual contributors, fostering innovation and technical skill enhancement to drive the successful delivery of organizational strategies.
 
-Title: Delivery Manager. Company: EPAM at Amway. From: July 2016 to March 2017
-Spearheaded customer’s digital transformation and E-commerce OMNI channel implementation, which included the SAP Hybris platform development. 
+Title: Delivery Manager. Company: Amway EU, contractor. From: July 2016 to March 2017
+Spearheaded digital transformation and E-commerce OMNI channel implementation, which included the SAP Hybris platform development. 
 - Established and enforced automated testing frameworks, deployment workflows, and CI/CD processes to ensure the quality and reliability of software products and reduce infrastructure-induced delays, resulting in a 44% improvement in testing efficiency and a more seamless software delivery process.
 - Led the adoption of cloud-based deployments using containers, ensuring efficient and scalable software releases.
-- Coordinated a cross-functional team of 110+ people distributed across four locations (Krakow, St. Petersburg, Minsk, Gomel). Hired / fired / trained / coached  Software Engineers. Achieved consistent delivery team velocity.
-- Drove technology innovation, efficiency improvements  and change management process. Implemented on demand AWS infrastructure and CI/CD. That reduced infrastructure caused delays by 44%.
 - Developed and implemented a comprehensive plan for improving operational efficiency within the organization, focusing on building infrastructure as code and automating the deployment process.
-- Demonstrated expertise in roadmap planning, change control, forecasting, and release process management for software development initiatives. 
+- Proactively identified and implemented optimizations and improvements to infrastructure and systems, driving efficiency and reliability.
+- Set up system design, software development, and QA processes, including functional design, UX design, integration design (including schedule for partners and dependencies), UI implementation, testing (automation, UI, functional, regression, security, performance). 
+- Drove technology innovation, efficiency improvements  and change management process. Implemented on demand AWS infrastructure and CI/CD. That reduced infrastructure caused delays by 44%.
+
+Title: Team lead/Consultant/Analyst/Developer. Company: Previous employers. From: October 2002 to June 2016
+There are 14 more years of prior professional experience in IT. Please refer to it on my LinkedIn page .
 
 Education:
 Masters Degree at Perm State University / Russia.
@@ -40,10 +43,10 @@ Major: Information and computer sciences
 Minor: Radio Physics and Electronics
 Graduation year: 2003
 Notable certifications:
-2016 - Certified SAFe 4 Agilist 
 2018 - Google Cloud Certified Professional Cloud Architect. 
+2016 - Certified SAFe 4 Agilist 
 Hobby:
- IoT Linux based consumer devices utilizing Google and Meta cloud services on Python3. 
+IoT Linux based consumer devices utilizing Google and Meta cloud services on Python3. 
 Jogging. Video Games.
 Misc: 
 Authorized to work in the United States. No visa sponsorship required.

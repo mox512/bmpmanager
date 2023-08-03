@@ -1,26 +1,17 @@
-Ideal candidates have a strong technical background and business acumen with prior IT experience and interest in product management from the vendor/partner perspective. Candidates in this role demonstrate a desire to continue personal learning and career development while working in cross-functional teams at a fast-moving, highly successful company. As part of the product management team, the product manager position bridges technical and business worlds, ensuring a focus and priority on existing customers and solutions while evaluating and placing product investment aligned to long term strategy and success.
+Roles and Responsibilities
+As a Technical Project Manager on the CDN team, you will drive critical infrastructure initiatives in partnership with business stakeholders and across engineering teams. You see projects from inception to the hands of the customer ensuring effective communication and timely, high quality delivery.
+- a big-picture vision, the passion to make that vision a reality, and technical credibility to engage and drive work with Legal, Engineering, Security, Product Management, Marketing, Public Relations, Partners, and Executives
+- Drive all aspects of project management (planning incorporating dependencies, key milestones and deliverables, data gathering, analysis, communication, risk management and mitigation, status tracking and reporting, implementation, monitoring, execution, and delivery of the initiative/project.
+- Drive strategic, cross-team initiatives.
+- Influence and collaborate across teams including engineering, product to effectively build commitment with implementation teams, negotiate competing requirements, ensure alignment and project progress, and improve processes.
+- Communicate project plans and risks and issues to stakeholders.
+- Partner with Program Manager and leadership to identify and solve challenges. 
 
-Job Responsibilities
+Qualifications
 
-Drive product, feature and component level requirements definition for Citrix products based on Finance Industry needs to make organizations successful resulting in expanded Citrix deployments.
-Work with the account teams to better equip and demonstrate the value of Citrix.
-Lead customer briefings on Citrix technologies, listen to requirements and help translate into potential product features.
-Participate and define the business, product strategy and annual operating plan for Citrix business through partners with growth trajectory for ARR and bottom line
-Guide the prioritization and planning with various product and engineering teams to execute on partner requirements in Citrix products
-Effectively execute on the product requirements with Citrix engineering team to release with high quality and specification required by finance customers, and drive adoption for the products
-Effectively communicate and collaborate with external & internal stakeholders throughout the organization to determine goals and drive visibility and alignment on progress towards objectives
-Propose, initiate and prioritize products/projects within the product group to progress business goals. Assist in determining the best solution, provide data driven validation, and measure success of team objectives, including authoring outcome-based goals and KPIs
-Lead the market validation activities, such as partner prospect interviews and market analysis as part of new product or feature planning.
-
-Knowledge and Skills
-
-10+ years’ experience in IT organization and Product management/Sales Engineering/Technology Consulting or related discipline for enterprise software
-Experience with Finance industry regulatory and compliance requirements.
-Experience with virtualization, ZTNA, cloud technologies in hybrid and SaaS computing model
-Experience with highly technical products; direct experience with cloud, SaaS a plus
-Experience presenting to customers, partners, internal teams and leadership on a regular basis; ability to solicit and synthesize input from customers and internal stakeholders
-Experience developing productive relationships externally & internally and coordinating product management across product development, technical support, pre-sales, sales, service delivery and partner organizations
-Demonstrated ability to collaborate, influence and gain the cooperation necessary across the organization to successfully deliver to schedules/deadlines
-Ability to develop a well-conceived and carefully constructed product requirements
-Develop a deep understanding of the Citrix product line, the technical architecture & security of the product and its association with other products
-Should be hands on with the products in order to demo and in some cases setup the environment.
+ Qualifications
+- 2+ years project management experience driving complex, cross functional technical projects
+- Strong experience with project management tools including Confluence, Jira, and Asana. Experience with software development project management. Expire with Agile project management.
+- Familiar with infrastructure technologies including cloud, networking, systems, etc.
+- Familiar with software development, cloud and network infrastructure and asset management ecosystem, market, and user requirements 
+- Self starter, responsible, comprehensive, follow-through, passionate 
