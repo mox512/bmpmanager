@@ -1,9 +1,30 @@
-In response to the job description, I am pleased to apply for the position of Technical Project Manager on the CDN team. Drawing on my 2+ years of experience in project management, my strong knowledge of project management tools including Confluence, Jira, and Asana, as well as my familiarity with infrastructure technologies, including cloud, networking, and systems, I am confident in my ability to drive strategic, cross-team initiatives and to partner with Program Manager and leadership to identify and solve challenges.
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Phone Number]
+[Email Address]
+[Date]
 
-Additionally, I bring with me a deep understanding of software development, cloud and network infrastructure and asset management ecosystems, market, and user requirements, as well as a proven record of driving complex, cross-functional technical projects. I have a big-picture vision, the passion to bring this vision to reality, and the technical credibility to engage and drive work with Legal, Engineering, Security, Product Management, Marketing, Public Relations, Partners, and Executives.
+[Recipient's Name]
+[Recipient's Position]
+[Company Name]
+[Company Address]
+[City, State, ZIP Code]
 
-My experience leading teams of up to 100 members in the successful delivery of digital transformation programs has also enabled me to develop and implement effective processes, resource allocation and risk management strategies to ensure the high performance of projects, as well as agile development methodologies and processes, to improve engineering team efficiency and delivery cadence. I have also developed and deployed innovative ML models to enhance technical efficiencies and transform engineering practices.
+Dear [Recipient's Name],
 
-As evidenced by my CV, I also have a Masters Degree in Information and Computer Sciences, a Google Cloud Certified Professional Cloud Architect certification, and a Certified SAFe 4 Agilist Certification.
+I am writing to express my interest in the Security Technical Program Manager position at Notion, as advertised on [Job Board]. With my strong background in program management and expertise in cloud infrastructure, I believe I have the skills and experience necessary to excel in this role.
 
-I am sure I am the right candidate for the Technical Project Manager role on the CDN team, and look forward to discussing my candidacy with you in more detail.
+Having served as a Technical Program Manager (TPM) at Google, I have successfully managed the implementation of high-load backend solutions and advocated for Agile SDLC methodologies. I have led cross-functional teams, contributed to technical design, optimized business processes, and ensured the success of programs with budgets exceeding $30 million/year and teams of over 100 members.
+
+In terms of technical skills, I am proficient in virtualization, containerization, GCP, CI/CD, DevOps, distributed system's solution architecture, and programming in C/C++, Java, and Python. I am proud to have led the design, implementation, and timely launch of Google's customer-facing API security SaaS product. My experience in implementing engineering standards and processes, such as continuous integration, unit testing, and code review workflows, has resulted in improved product quality and accelerated development cycles.
+
+I believe my experience and skills align perfectly with the requirements stated in the job description. I have a proven track record of successfully managing security-related programs and working with both engineering and non-engineering teams simultaneously. I have demonstrated strong problem-solving skills and the ability to make meaningful change through program management. Furthermore, my exceptional communication skills enable me to effectively convey critical details to both technical and non-technical stakeholders.
+
+Additionally, I have a Computer Science background and have worked in fast-growing start-ups and SaaS environments. I am excited about the opportunity to contribute to Notion's growth and contribute to the company's mission of empowering individuals and teams to tailor their software to address any challenge.
+
+Thank you for considering my application. I am eager to discuss how my skills and experience can contribute to the success of Notion's security program. I have attached my resume for your review. Please do not hesitate to contact me via phone or email to schedule an interview.
+
+Sincerely,
+
+[Your Name]

@@ -1,24 +1,16 @@
-Strategized with Product Management team to define product implementation roadmap, schedule, success factors and KPIs.
-Directed cross-regional and cross-functional team of 30+ Google full-time employees and contractors without direct authority. Nurtured inclusive and collaborative environment, motivated and mentored team members.
-Expressed technical expertise on network, security and Web / SaaS implementation practices. Headed system design effort, resulted in more than 4 technical design documents laying out SaaS architecture based on GCP components such as Borg, BQML, Spanner, Pub/Sub, GraphQL.
-Implemented data-driven decision-making processes, leveraging custom analytics reports and critical path analysis, to drive team performance and deliver business value.
-Served as the Scrum Master, driving Agile rituals and fostering a continuous improvement culture within a distributed cross-functional team to ensure the smooth delivery of the product.
-Approached delivery with architectural principles in mind to ensure scalability and collaboration between teams.
-Mentored a team of Software Developers, guiding them in technical, organizational, program management and financial aspects to develop high-quality cloud-based applications.
-Spearheaded the building of a high-performing team of Software Developers, providing guidance in technical and organizational aspects, leading to the development of high-quality cloud-based applications.
-Built a roadmap for the engineering team, outlining the steps and milestones necessary for successful delivery of digital products, utilizing scalable and collaborative architectural principles.
-Successfully built and managed a team of engineering managers and individual contributors, fostering collaboration, innovation, and technical skill enhancement to deliver against organizational strategies. 
-Collaborated with non-technical teams to define technical estimates and tradeoffs, effectively bridging the gap between technical and non-technical stakeholders and ensuring the successful execution of project deliverables.
-Conducted market research and analysis to identify opportunities for new product development, leading to the successful launch of innovative features that met customer needs.
-Implemented and optimized processes, resource allocation, and risk management strategies to ensure high performance and successful execution of features.
-Implemented Agile development methodologies and processes, including sprint planning and retrospectives, to improve engineering team efficiency and delivery cadence in an agile environment.
-Collaborated cross-functionally to prioritize needs, build productive relationships, and hold teams accountable for deliverables, resulting in improved alignment and transparency across the organization.
-Utilized machine learning frameworks for API traffic classification, enhancing the accuracy and efficiency of cloud API security SaaS product, leading to increased customer trust and protection against potential security threats.
-Spearheaded the development of technical design documents, outlining the architecture for SaaS implementation based on cutting-edge GCP components, resulting in a robust and scalable system.
-Developed and implemented engineering standards and processes to improve product quality and velocity, resulting in accelerated development timelines and improved customer satisfaction.
-Led the development and implementation of automated testing frameworks, CI/CD processes, and deployment workflows, resulting in improved software quality and faster delivery cycles.
-Leveraged expertise in software development life cycle and model development life cycle to design and implement near real-time advanced machine learning models, optimizing technical efficiencies.
-Communicated complex concepts and results of ML models to technical and non-technical stakeholders, influencing partners and customers to adopt AI ML technologies and drive organizational growth.
-Developed and deployed innovative ML models to enhance technical efficiencies and transform engineering practices, resulting in increased productivity and efficiency.
-Collaborated with technical domain leaders to identify and address challenges, framing them into ML problems and delivering impactful solutions that improved business outcomes.
-Implemented cross-team collaboration initiatives, fostering closer collaboration and knowledge sharing between engineering teams to drive product innovation and improve operational excellence.
+Expressed technical expertise on network, security and Web / SaaS implementation practices. Headed system design effort, resulted in more than 4 technical design documents laying out SaaS architecture based on components such as Borg,BigQuery ML, Spanner, Pub/Sub, GraphQL, No SQL and RDBMS databases.
+
+Implemented data-driven decision-making processes, leveraging custom analytics reports in Tableau / Looker and critical path analysis in MS Project, to balance long-term vision with immediate business needs.
+
+Approached SW delivery with a strong focus on architectural principles, aiming to ensure scalability, flexibility, and seamless collaboration between teams. By strategically aligning technology choices and design decisions. 
+
+Collaborated with Product Management to strategize the NPI roadmap for engineering. Defined schedule, milestones, mitigated risks, measured KPIs, and ensured achievement of success factors for successful SaaS product delivery.
+
+Collaborated with Product Management to develop the NPI roadmap for engineering. Set schedules, established milestones, mitigated risks, and measured KPIs, ensuring successful SaaS product delivery through key success factors.
+
+Led the adoption of Agile software development methodologies, introducing sprint planning and retrospectives. As Scrum Master, drove Agile rituals and fostered a culture of continuous improvement, resulting in 18% increased engineering efficiency and increased 
+delivery cadence.
+
+Pioneered implementation of engineering standards and processes such as continuous integration (CI), unit testing, automated testing, and code review workflows, Infrastructure as Code (IaC) to improve product quality and velocity, resulting in accelerated development cycles and improved customer satisfaction. 
+
+Teamed up with technical leaders to pinpoint challenges, converting them into practical ML problems with effective solutions that boosted business outcomes. Skillfully conveyed intricate ML model concepts and results to both technical and non-technical stakeholders.

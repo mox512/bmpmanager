@@ -41,7 +41,7 @@ prompt = f"""
     Imagine you are an AI-based hiring manager.
     Helping me to improve matching to the a provided job description {JD}
     Please identify expertise areas in job description that are not covered in my resume: {CV}
-    Address these gaps with new 5 action-oriented detail focused bullet point in past tense. 
+    Address these gaps with new 3 action-oriented detail focused bullet point in past tense. 
     Length of the bullet points should be no more than 200 character long.
     Plain text,no formatting.
 """

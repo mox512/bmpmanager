@@ -1,12 +1,17 @@
 import openai
-import pyperclip
 import subprocess
 import datetime
 import json
 from docx import Document
 import sqlite3
 import hashlib
+import sys
 
+def createfilename(text):
+    symbols = (u"абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+               u"abvgdeejzijklmnoprstufhzcss_y_euaABVGDEEJZIJKLMNOPRSTUFHZCSS_Y_EUA")
+    tr = {ord(a): ord(b) for a, b in zip(*symbols)}
+    return text.translate(tr).replace(" ", "_").replace("-", "_").replace(".", "_").replace("/", "_").replace(":", "_")
 
 def save_as_docx(text, output_file):
     doc = Document()
@@ -40,7 +45,7 @@ totalrate=0
 def prep_rep(JD):
     global run_id
     replacements = {}
-    reps = ["__rep1", "__rep2", "__rep3"]
+    reps = ["__rep1", "__rep2"]
     global totalrate
     for rep in reps:
 
@@ -60,10 +65,9 @@ def prep_rep(JD):
         #     print(item)
         # print('Repsa ^^^^^^')
         repsa_str = json.dumps(list(repsa))
-
         prompt = f"""
 Imagine you are an AI-based hiring manager. Your task is to evaluate the relevance of various bullet points of a candidate's bullet points {repsa_str} against a provided job description {JD}. The bullet points is in the form of string representations of list, having fileds (id, name, score).
-Score each bullet point on a scale from 1 to 10 based on how closely it matches with the job description. 
+Score each bullet point on float a scale from 0 to 10 with with details to 0.1 based on how closely it matches with the job description. 
 Return this data in the form of a JSON object where each key corresponds to the id in double quotes, and the value is the score you assigned.
 """
 
@@ -81,7 +85,7 @@ Return this data in the form of a JSON object where each key corresponds to the 
         totalpoint = ''
         tuple_dict = {item[0]: item for item in repsa}
         ic = 0
-        for key, value in sorted(data_dict.items(), key=lambda x: int(x[1]), reverse=True):
+        for key, value in sorted(data_dict.items(), key=lambda x: float(x[1]), reverse=True):
             pn = tuple_dict[int(key)][1]
             id_var = int(hashlib.md5(pn.encode()).hexdigest()[:15], 16)
 
@@ -96,8 +100,13 @@ Return this data in the form of a JSON object where each key corresponds to the 
                 bup_id = int(existing_id[0])
                 is_new='N'
 
+
+            if (rep == "__rep1"): max_ic=5
+            elif (rep == "__rep2"): max_ic=4
+            else: max_ic=3
+
             ic += 1
-            if ic <= 6:
+            if ic <= max_ic:
                 totalpoint = totalpoint + '- ' + pn
                 #print('-A-', value, '<', id_var, '>', key, is_new,' ', pn, end='')
                 decision = 1
@@ -134,20 +143,52 @@ with open('openai.key','r') as key_file:
 conn = sqlite3.connect('log.db')
 sqlcc = conn.cursor()
 
-JDdoc = pyperclip.paste()
+with open('JD.txt', 'r') as file:
+    JDdoc = file.read()
+
 JD = f"<Job description START>{JDdoc}<Job description END>"
 # print(JD)
-
-with open('JD.txt', 'w') as txt_file:
-    txt_file.write(JDdoc)
 
 with open('CV.txt', 'r') as file:
     CVdoc = file.read()
 CV = f"<Resume START>{CVdoc}<Resume END>"
 # print(CV)
 
-values = (JDdoc, CVdoc)
-sqlcc.execute("INSERT INTO run (dt, jd, cv) VALUES (datetime('now'), ?, ?)", values)
+prompt = f"""
+Here is Job descirption {JD} Can you please look into it and return to me only JSON object with keys "company_name" "position_name" keys containgin company name and position name repsectively.
+"""
+resp_txt = fast_response(prompt)
+try:
+    data_dict = json.loads(resp_txt)
+except json.JSONDecodeError as e:
+    print("Failed to decode JSON: ", str(e))
+    print("JSON:", resp_txt)
+    beep(700, 450)
+    beep(700, 450)
+    beep(700, 450)
+    exit(1)
+
+for key, value in data_dict.items():
+    if key == "company_name": company_name=value;
+    if key == "position_name": position_name = value;
+print(company_name,' ',position_name)
+
+
+sqlcc.execute("SELECT * FROM run WHERE com LIKE ?", ('%' + company_name + '%',))
+rows = sqlcc.fetchall()
+for row in rows:
+    if row[5] == position_name:
+        beep(500, 350)
+        beep(500, 350)
+        utc_time = datetime.datetime.strptime(row[1], '%Y-%m-%d %H:%M:%S')
+        pst_time = utc_time - datetime.timedelta(hours=8)
+        print('--->',pst_time, row[4], row[5])
+    else:
+        print('    ',row[1],row[4],row[5])
+
+
+values = (JDdoc, CVdoc, company_name, position_name)
+sqlcc.execute("INSERT INTO run (dt, jd, cv, com, pos) VALUES (datetime('now'), ?, ?, ?, ?)", values)
 run_id = sqlcc.lastrowid
 
 replacements = prep_rep(JD)
@@ -156,19 +197,21 @@ replacements = prep_rep(JD)
 # print('----^-----')
 
 current_time = datetime.datetime.now()
-mfilename = "CV_"+str(totalrate)+"_"+current_time.strftime("_%H_%M%S")
+mfilename = createfilename("CV_"+str(int(totalrate))+"_"+company_name+"_"+current_time.strftime("_%H_%M%S"))
 old_file = "__cv.docx"
 docx_replace(old_file, mfilename + ".docx", replacements)
 
 docx_file_path = mfilename + ".docx"
 txt_content = docx_to_txt(docx_file_path)
+
+
 with open('CV.txt', 'w') as txt_file:
     txt_file.write(txt_content)
 # with open(filename+".txt", "w") as file:
 #    file.write(result)
 # save_as_docx(result, filename + ".docx")
-
 # pyperclip.copy(result)
+sqlcc.execute("UPDATE run SET cv = ? WHERE id = ?", (txt_content, run_id))
 
 conn.commit()
 conn.close()
@@ -177,3 +220,6 @@ beep(400, 150)
 beep(500, 150)
 beep(300, 350)
 print('<-----------=| All done: ' + mfilename + '.docx |=----------->')
+with open('run_id.txt', 'w') as txt_file:
+    txt_file.write(str(run_id))
+print('-= Resume saved =-')

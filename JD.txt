@@ -1,17 +1,64 @@
-Roles and Responsibilities
-As a Technical Project Manager on the CDN team, you will drive critical infrastructure initiatives in partnership with business stakeholders and across engineering teams. You see projects from inception to the hands of the customer ensuring effective communication and timely, high quality delivery.
-- a big-picture vision, the passion to make that vision a reality, and technical credibility to engage and drive work with Legal, Engineering, Security, Product Management, Marketing, Public Relations, Partners, and Executives
-- Drive all aspects of project management (planning incorporating dependencies, key milestones and deliverables, data gathering, analysis, communication, risk management and mitigation, status tracking and reporting, implementation, monitoring, execution, and delivery of the initiative/project.
-- Drive strategic, cross-team initiatives.
-- Influence and collaborate across teams including engineering, product to effectively build commitment with implementation teams, negotiate competing requirements, ensure alignment and project progress, and improve processes.
-- Communicate project plans and risks and issues to stakeholders.
-- Partner with Program Manager and leadership to identify and solve challenges. 
+Security Technical Program Manager
+Notion · San Francisco, CA (On-site) Reposted  1 week ago  · 77 applicants
+$160,000/yr - $195,000/yr (from job description) · Full-time
+501-1,000 employees · Software Development
+58 company alumni work here
+Skills: Program Management, Communication, +6 more
+View verifications related to this job post.View verifications related to this job post.
+Show all
 
-Qualifications
+Apply
 
- Qualifications
-- 2+ years project management experience driving complex, cross functional technical projects
-- Strong experience with project management tools including Confluence, Jira, and Asana. Experience with software development project management. Expire with Agile project management.
-- Familiar with infrastructure technologies including cloud, networking, systems, etc.
-- Familiar with software development, cloud and network infrastructure and asset management ecosystem, market, and user requirements 
-- Self starter, responsible, comprehensive, follow-through, passionate 
+Save
+Save Security Technical Program Manager at NotionYour profile was shared with the job poster. Undo shared profile with the job posterUndo
+Did you apply?
+
+Let us know, and we’ll help you track your application.
+
+
+Yes
+
+No
+
+Share
+
+Show more options
+About the job
+About Us
+
+We're on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us can't build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+
+We've been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, we're growing fast and excited for new teammates to join us who are the best at what they do. We're passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+
+About The Role
+
+Notion is used all over the world by a variety of types of people for many different things ranging from business to personal use. One thing they all have in common beyond loving Notion is that the privacy, integrity and availability of their experience in Notion essential for them to be successful in their pursuits. The Security Technical Program Manager will support the ongoing effort to protect our users and team through the leadership of the company wide security program by providing structure, rigor and visibility. The STPM will work with leaders to steward program definition, identify needs, design projects and drive those projects to success that supports the overall health of the security program. The STPM will report directly to the CISO and work alongside their staff as both a supporting partner and a leader in the organization.
+
+What You'll Achieve
+
+You will own the collaboration and planning within Security.
+You will own project management as a discipline as well as project tracking and performance metrics for those projects.
+You will guide major security programs to success with your excellent planning and leadership skills.
+You will help protect the security of Notion by ensure the success of cornerstone projects that meaningfully improve security at Notion.
+You will work with teams in engineering, operations, and throughout the rest of notion to improve the performance of major Security programs.
+
+Skills You'll Need To Bring
+
+You have demonstrated success as a TPM in security or security related capacity.
+You have experience working with engineering and non engineering teams simultaneously.
+You have experience influencing change through building buy in and persuasion.
+You have strong problem solving skills and a proven track record of making meaningful change through program management.
+You have exceptional communication skills that allow you to convey critical details regardless of your audiences technical background.
+
+Nice To Haves
+
+You have a Computer Science background or equivalent technical experience.
+You have worked at a fast-growing start-up or SaaS with a high volume user base and are eager to contribute in such an environment (being a current Notion user would be great!).
+You have hands-on experience in designing and scaling a Program Management function.
+You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work.
+
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco, the estimated base salary range for this role is $160,000 - $195,000 per year.

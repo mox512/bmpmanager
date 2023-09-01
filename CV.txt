@@ -1,52 +1,46 @@
 Denis Davydov
-SW Engineering Director / SaaS system architect / Senior technical program manager (TPM)
+Green Card holder
+, (650) 229-30-65, Palo Alto, CA 
+https://www.linkedin.com/in/mox512
 
-mox512@gmail.com 
+Experienced Technical Program Manager (TPM) with a Masters degree in Computer and Information Science,  specialized in cloud infrastructure, especially within Google Cloud's IaaS, PaaS, and SaaS offerings. I have extensive experience managing implementation of high-load backends solutions and advocating Agile SDLC methodologies. As a servant leader for over 10 years, I've guided cross-functional teams, contributed to technical design, optimized business processes, and ensured the success of programs with a budget of $30m/year and over 100 members.
+Technically, I'm skilled in virtualization, containerization, GCP, CI/CD, DevOps,distributed system’s solution architecture, and programming in C/C++, Java, and Python.
+I take pride in leading the design, implementation, and timely launch of Google's customer-facing API security SaaS product.
+EXPERIENCE
+Principal Technical project manager at Google / EPAM		Apr 2022 - Apr 2023 
+Led cross-function 30+ member team through NPI from ideation, design, implementation and product launch.  of new Customer facing Machine Learning (ML) SaaS security product under Google brand.
+- Pioneered implementation of engineering standards and processes such as continuous integration (CI), unit testing, automated testing, and code review workflows, Infrastructure as Code (IaC) to improve product quality and velocity, resulting in accelerated development cycles and improved customer satisfaction. 
+- Collaborated with Product Management to develop the NPI roadmap for engineering. Set schedules, established milestones, mitigated risks, and measured KPIs, ensuring successful SaaS product delivery through key success factors.
+- Expressed technical expertise on network, security and Web / SaaS implementation practices. Headed system design effort, resulted in more than 4 technical design documents laying out SaaS architecture based on components such as Borg,BigQuery ML, Spanner, Pub/Sub, GraphQL, No SQL and RDBMS databases.
+- Teamed up with technical leaders to pinpoint challenges, converting them into practical ML problems with effective solutions that boosted business outcomes. Skillfully conveyed intricate ML model concepts and results to both technical and non-technical stakeholders.
+- Collaborated with Product Management to strategize the NPI roadmap for engineering. Defined schedule, milestones, mitigated risks, measured KPIs, and ensured achievement of success factors for successful SaaS product delivery.
 
-Mobile: (650) 229-30-65, Palo Alto, CA
+Engineering Director at Google / EPAM					Apr 2017 - Mar 2022 
+Managed flagship software engineering programs for Google of $20M annual budget and 100+ headcount from inception to general availability. 
+- Led cloud migration programs from assessment through planning, platform selection, ensured compliance, executed migration, monitored performance, and optimized costs. Implemented engineering standards and processes, leveraging Jenkins, Puppet, SonarQube and Git, to ensure the highest level of excellence in product quality and SW delivery velocity. 
+- Implemented impactful open-source community engagement initiatives, driving collaboration and knowledge sharing with external developers. Resulted in a 30% increase in contributions to open-source projects hosted on GitHub, leading to significant growth in the ecosystem.
+- Anticipated stakeholder needs and proactively developed and discussed potential solutions to business issues, leveraging expertise in application development, cloud platforms (AWS/GCP), and micro services architecture to deliver innovative and scalable solutions.
+- Defined milestones, success criteria, resource allocation, dependencies, execution strategy for the complex technology program with up to 100+ members. Leveraging Project planing tools such as MS project, Jira, Asana, Trello, Smartsheet. Developed and executed change management strategies.
 
-A tech enthusiast from an early age, I have established a successful 20-year career in the IT sector. I have led and executed over 15+ complex digital transformation projects, e-commerce, SaaS, AI/ML, and Web development initiatives in diverse industries including oil and gas, retail, banking, brokerage, insurance, and IT. I've led teams of up to 100+ members, fostering collaboration and technical skills enhancement and innovation. My unwavering commitment to delivering within agreed timelines and budgets has consistently resulted in the successful completion of digital transformation programs with up to 12% reduction in project timelines.
-Recent experience / work history:
-Title: Delivery Director. Company: EPAM at Google. From: April 2022 to April 2023 
-Led the design and delivery of Google's customer-facing cloud API security SaaS product, leveraging two Machine Learning models to identify and classify API traffic. Google announcement: .
-- Led the development and implementation of automated testing frameworks, CI/CD processes, and deployment workflows, resulting in improved software quality and faster delivery cycles.
-- Implemented and optimized processes, resource allocation, and risk management strategies to ensure high performance and successful execution of features.
-- Implemented Agile development methodologies and processes, including sprint planning and retrospectives, to improve engineering team efficiency and delivery cadence in an agile environment.
-- Developed and implemented engineering standards and processes to improve product quality and velocity, resulting in accelerated development timelines and improved customer satisfaction.
-- Approached delivery with architectural principles in mind to ensure scalability and collaboration between teams.
-- Developed and deployed innovative ML models to enhance technical efficiencies and transform engineering practices, resulting in increased productivity and efficiency.
-
-Title: Delivery Director. Company: EPAM at Google. From: April 2017 to March 2022 
-Directed the SW delivery program with up to $18m/y budget, bringing together the implementation of best practices in the IT industry, technical expertise, and mentoring. 
-- Developed and implemented scalable backend systems for processing and analyzing large volumes of data, improving overall system performance by 25%.
-- Drove continuous improvements through learnings from postmortem report, workshops, and retrospectives, optimizing team performance and delivering value.
-- Hired, mentored and guided 7+ Engineering Managers and Technical PMs, advising in all technical, organizational, program management, financial and ethical aspects. 
-- Anticipated stakeholder needs and proactively developed and discussed potential solutions to complex business issues, leveraging specialized expertise in application development, cloud platforms (Azure/AWS/Google), and service-oriented architecture to deliver innovative and scalable solutions that exceeded stakeholder expectations.
-- Collaborated with department leaders to translate corporate strategy into detailed roadmaps, timelines, and deliverables, resulting in effective execution.
-- Led the creation and management of a high-performing team of engineering managers and individual contributors, fostering innovation and technical skill enhancement to drive the successful delivery of organizational strategies.
-
-Title: Delivery Manager. Company: Amway EU, contractor. From: July 2016 to March 2017
-Spearheaded digital transformation and E-commerce OMNI channel implementation, which included the SAP Hybris platform development. 
-- Established and enforced automated testing frameworks, deployment workflows, and CI/CD processes to ensure the quality and reliability of software products and reduce infrastructure-induced delays, resulting in a 44% improvement in testing efficiency and a more seamless software delivery process.
-- Led the adoption of cloud-based deployments using containers, ensuring efficient and scalable software releases.
-- Developed and implemented a comprehensive plan for improving operational efficiency within the organization, focusing on building infrastructure as code and automating the deployment process.
-- Proactively identified and implemented optimizations and improvements to infrastructure and systems, driving efficiency and reliability.
-- Set up system design, software development, and QA processes, including functional design, UX design, integration design (including schedule for partners and dependencies), UI implementation, testing (automation, UI, functional, regression, security, performance). 
-- Drove technology innovation, efficiency improvements  and change management process. Implemented on demand AWS infrastructure and CI/CD. That reduced infrastructure caused delays by 44%.
-
-Title: Team lead/Consultant/Analyst/Developer. Company: Previous employers. From: October 2002 to June 2016
-There are 14 more years of prior professional experience in IT. Please refer to it on my LinkedIn page .
-
-Education:
-Masters Degree at Perm State University / Russia.
-Major: Information and computer sciences 
-Minor: Radio Physics and Electronics
-Graduation year: 2003
-Notable certifications:
-2018 - Google Cloud Certified Professional Cloud Architect. 
-2016 - Certified SAFe 4 Agilist 
-Hobby:
-IoT Linux based consumer devices utilizing Google and Meta cloud services on Python3. 
-Jogging. Video Games.
-Misc: 
-Authorized to work in the United States. No visa sponsorship required.
+Senior Technical project manager at Amway / EPAM			Jul 2016 - Mar 2017
+Led Omni-channel E-commerce implementation for Amway using the SAP Hybris e-commerce platform. Hired and managed a 90+ member team, launching the program and instituting robust SDLC, QA processes, and CI/CD. This leadership resulted in stable team performance, with 4 distributed teams operating seamlessly.
+Technical Program Manager at MVideo / EPAM				Apr 2015 – Jun 2016
+Led a 60+ member cross-functional team in the iterative implementation of Oracle ATG Web Commerce for MVideo, a leading Russian consumer electronics retailer. Achieved seamless integration with Oracle Siebel and successfully implemented a customer loyalty system resulting in 24% increase in DAU.
+Engineering Team Lead at Gazprombank / EPAM			Jan 2013 – Mar 2015
+Led a 15-member engineering team, focusing on new feature implementation and performance optimization of the enterprise serial bus using IBM WebSphere MQ for Gazprombank.
+Head of system analysis department at Ugoria 				Mar 2012 - Dec 2012
+Led the integration of data services from the All-Russian Insurance Association's API into Ugoria’s automotive underwriting process. This initiative culminated in the design and launch of a new insurance product, which garnered overwhelmingly positive feedback from customers.
+Head of business analysis department at BCS Financial Group	Oct 2010 - Feb 2012
+Led a 6-member team of business analyst in the refactoring and implementation of front-desk and back-end processes for brokerage products, culminating in the business process design for new structured financial products.
+Lead System analyst at Verysell Holding					Sep 2008 - Sep 2010
+Led discovery, requirement gathering, business process analysis, and UAT for SAP R/3 - FI module implementation.
+Business process analyst at Parma Telecom				Oct 2007 - Aug 2008
+Documented the AS-IS state, defined the TO-BE state, and implemented changes to the PMO processes at Lukoil Overseas.
+Senior Software Engineer at Ladya Retail group				Oct 2002 - Sep 2007
+Integrated floor equipment, including bar-code scanners and smart scales, into the ERP system. 
+Implemented accounting and warehouse management modules for a retail chain.
+EDUCATION
+Master’s Degree at Perm State University / Russia. Major: Information and computer sciences. Minor: Radio Physics and Electronics. Graduation year: 2003
+PROFESSIONAL DEVELOPMENT
+Google Cloud Certified Professional Cloud Architect					   2018
+Certified SAFe 4 Agilist 									   2016
