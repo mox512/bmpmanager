@@ -1,20 +1,10 @@
 Defined milestones, success criteria, resource allocation, dependencies, execution strategy for the complex technology program with up to 100+ members. Leveraging Project planing tools such as MS project, Jira, Asana, Trello, Smartsheet. Developed and executed change management strategies.
-
-Hired, mentored, and guided 7+ Engineering Managers and Technical PMs. Fostering a diverse community through servant-leadership, advising in tech, program management, and ethics, inspiring professional growth.
-
+Recruited, mentored, and led 7+ Engineering Managers and Technical PM. Fostering a diverse community through servant-leadership, advising in tech, program management, and ethics, inspiring professional growth.
 Drove more than 20 cross-functional RFP/RFI response teams. Assured delivery of high quality presentations and proposal materials in a designated timeline. With RFP award rate up to 78%.
-
 Initiated and established the program governance with stakeholders and Vendor Management. Facilitated data driven decision-making by executives. Identified and mitigated program risks. Managed external dependencies. Built relationships to influence without authority.
-
-Collaborated with stakeholders to define and execute a metrics-driven approach to program health and KPI reporting, yielding insights for improved speed, quality, and ROI. Established program governance and fostered relationships with both internal stakeholders and Vendor Management, facilitating data-driven executive decisions. Actively identified and mitigated program risks, managed external dependencies.
-
+Partnered with internal stakeholders and Vendor Management to establish program governance, define a metrics-driven approach to KPI reporting, and drive data-informed executive decisions. This approach yielded enhanced speed, quality, and ROI. Actively identified and mitigated program risks and managed external dependencies.
 Anticipated stakeholder needs and proactively developed and discussed potential solutions to business issues, leveraging expertise in application development, cloud platforms (AWS/GCP), and micro services architecture to deliver innovative and scalable solutions.
-
 Designed and implemented scalable backend systems using Cassandra, Kafka, GraphQL, Tableau for processing and analyzing large volumes of data, improving overall system performance by 25%.
-
 Implemented impactful open-source community engagement initiatives, driving collaboration and knowledge sharing with external developers. Resulted in a 30% increase in contributions to open-source projects hosted on GitHub, leading to significant growth in the ecosystem.
-
 Led cloud migration programs from assessment through planning, platform selection, ensured compliance, executed migration, monitored performance, and optimized costs. Implemented engineering standards and processes, leveraging Jenkins, Puppet, SonarQube and Git, to ensure the highest level of excellence in product quality and SW delivery velocity. 
-
 Model compliance with company policies and procedures and support company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; and demonstrating and assisting others with how to apply these in executing business processes and practices.
-

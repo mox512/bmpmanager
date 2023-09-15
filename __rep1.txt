@@ -1,16 +1,7 @@
 Expressed technical expertise on network, security and Web / SaaS implementation practices. Headed system design effort, resulted in more than 4 technical design documents laying out SaaS architecture based on components such as Borg,BigQuery ML, Spanner, Pub/Sub, GraphQL, No SQL and RDBMS databases.
-
 Implemented data-driven decision-making processes, leveraging custom analytics reports in Tableau / Looker and critical path analysis in MS Project, to balance long-term vision with immediate business needs.
-
-Approached SW delivery with a strong focus on architectural principles, aiming to ensure scalability, flexibility, and seamless collaboration between teams. By strategically aligning technology choices and design decisions. 
-
-Collaborated with Product Management to strategize the NPI roadmap for engineering. Defined schedule, milestones, mitigated risks, measured KPIs, and ensured achievement of success factors for successful SaaS product delivery.
-
-Collaborated with Product Management to develop the NPI roadmap for engineering. Set schedules, established milestones, mitigated risks, and measured KPIs, ensuring successful SaaS product delivery through key success factors.
-
-Led the adoption of Agile software development methodologies, introducing sprint planning and retrospectives. As Scrum Master, drove Agile rituals and fostered a culture of continuous improvement, resulting in 18% increased engineering efficiency and increased 
-delivery cadence.
-
+Directed SW delivery with a strong focus on architectural principles, aiming to ensure scalability, flexibility, and seamless collaboration between teams. By strategically aligning technology choices and design decisions. 
+Partnered with Product Management to strategize the NPI roadmap for engineering. Defined schedule, milestones, mitigated risks, measured KPIs, and ensured achievement of success factors for successful SaaS product delivery.
+Led the adoption of Agile software development methodologies, introducing sprint planning and retrospectives. As Scrum Master, drove Agile rituals and fostered a culture of continuous improvement, resulting in 18% increased engineering efficiency and increased delivery cadence.
 Pioneered implementation of engineering standards and processes such as continuous integration (CI), unit testing, automated testing, and code review workflows, Infrastructure as Code (IaC) to improve product quality and velocity, resulting in accelerated development cycles and improved customer satisfaction. 
-
-Teamed up with technical leaders to pinpoint challenges, converting them into practical ML problems with effective solutions that boosted business outcomes. Skillfully conveyed intricate ML model concepts and results to both technical and non-technical stakeholders.
+Engaged with technical leaders to pinpoint challenges, converting them into practical ML problems with effective solutions that boosted business outcomes. Skillfully conveyed intricate ML model concepts and results to both technical and non-technical stakeholders.
