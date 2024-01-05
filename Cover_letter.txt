@@ -1,30 +1,10 @@
-[Your Name]
-[Your Address]
-[City, State, ZIP Code]
-[Phone Number]
-[Email Address]
-[Date]
+Dear Hiring Team,
 
-[Recipient's Name]
-[Recipient's Position]
-[Company Name]
-[Company Address]
-[City, State, ZIP Code]
+I am writing in response to your job posting for a Senior Technical Program Manager. I am a Green Card holder with an extensive background managing and leading technical programs, especially within Google Cloud's IaaS, PaaS, and SaaS offerings. As reflected in my resume, I have a Master's degree in Computer and Information Science and have been in a servant leader role for over 10 years.
 
-Dear [Recipient's Name],
+Recently, I led the design, implementation and launch of a customer-facing API security SaaS product, leveraging machine learning (ML) capabilities. From ideation, to design, to implementation and product launch - my team and I achieved the NPI process in record time. During this role, I implemented data-driven decision making processes and proposed technical alternatives to ensure scalability, flexibility and seamless collaboration between teams. In addition, I also drove cloud migration programs and implemented engineering standards and processes such as CI, unit testing and automated testing.
 
-I am writing to express my interest in the Security Technical Program Manager position at Notion, as advertised on [Job Board]. With my strong background in program management and expertise in cloud infrastructure, I believe I have the skills and experience necessary to excel in this role.
+I am confident that my expertise and skill set as a Technical Program Manager would make me a valuable asset to Affirm. Respectfully I would like to request the opportunity to discuss the role in more detail. I welcome the chance to come in and make a presentation or discuss my qualifications over a virtual call. 
 
-Having served as a Technical Program Manager (TPM) at Google, I have successfully managed the implementation of high-load backend solutions and advocated for Agile SDLC methodologies. I have led cross-functional teams, contributed to technical design, optimized business processes, and ensured the success of programs with budgets exceeding $30 million/year and teams of over 100 members.
-
-In terms of technical skills, I am proficient in virtualization, containerization, GCP, CI/CD, DevOps, distributed system's solution architecture, and programming in C/C++, Java, and Python. I am proud to have led the design, implementation, and timely launch of Google's customer-facing API security SaaS product. My experience in implementing engineering standards and processes, such as continuous integration, unit testing, and code review workflows, has resulted in improved product quality and accelerated development cycles.
-
-I believe my experience and skills align perfectly with the requirements stated in the job description. I have a proven track record of successfully managing security-related programs and working with both engineering and non-engineering teams simultaneously. I have demonstrated strong problem-solving skills and the ability to make meaningful change through program management. Furthermore, my exceptional communication skills enable me to effectively convey critical details to both technical and non-technical stakeholders.
-
-Additionally, I have a Computer Science background and have worked in fast-growing start-ups and SaaS environments. I am excited about the opportunity to contribute to Notion's growth and contribute to the company's mission of empowering individuals and teams to tailor their software to address any challenge.
-
-Thank you for considering my application. I am eager to discuss how my skills and experience can contribute to the success of Notion's security program. I have attached my resume for your review. Please do not hesitate to contact me via phone or email to schedule an interview.
-
-Sincerely,
-
-[Your Name]
+Thank you for your consideration, 
+Denis Davydov

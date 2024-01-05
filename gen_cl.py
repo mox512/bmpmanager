@@ -50,7 +50,7 @@ if rows and len(rows[0]) > 4:
     company_name = rows[0][4]
 else:
     print("! No suitable run record found.")
-print(' -= Company Name:', company_name,' =-')
+print('-= Company Name:', company_name,' =-')
 
 with open('openai.key','r') as key_file:
     openai.api_key=key_file.read().strip()
@@ -65,7 +65,7 @@ with open('CV.txt', 'r') as file:
 CV = f"<<<CV START>>>{CVdoc}<<<CV END>>>"
 
 beep(500,250)
-prompt = "Write the cover letter based on CV and the JD. Please avoid senstenses longer than 230 symbols."+JD+CV
+prompt = "Write the cover letter based on CV and the JD. Please avoid senstenses longer than 230 symbols. Make sure that whole answer length is below 2500 symbols. Please be focused and don't use fluffy language."+JD+CV
 #print(prompt)
 resultCL = fast_response(prompt)
 #print(result)

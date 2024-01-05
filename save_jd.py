@@ -22,4 +22,4 @@ JDdoc = pyperclip.paste()
 
 with open('JD.txt', 'w') as txt_file:
     txt_file.write(JDdoc)
-print('-=Job decription saved=-')
+#print('-=Job decription saved=-')

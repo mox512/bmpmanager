@@ -1,46 +1,43 @@
-Denis Davydov
-Green Card holder
-, (650) 229-30-65, Palo Alto, CA 
-https://www.linkedin.com/in/mox512
+Experienced Technical Program Manager (TPM)  specialized in IT and Cloud infrastructure. I have extensive accomplishments leading projects of high-load backend solutions 
 
-Experienced Technical Program Manager (TPM) with a Masters degree in Computer and Information Science,  specialized in cloud infrastructure, especially within Google Cloud's IaaS, PaaS, and SaaS offerings. I have extensive experience managing implementation of high-load backends solutions and advocating Agile SDLC methodologies. As a servant leader for over 10 years, I've guided cross-functional teams, contributed to technical design, optimized business processes, and ensured the success of programs with a budget of $30m/year and over 100 members.
-Technically, I'm skilled in virtualization, containerization, GCP, CI/CD, DevOps,distributed system’s solution architecture, and programming in C/C++, Java, and Python.
-I take pride in leading the design, implementation, and timely launch of Google's customer-facing API security SaaS product, leveraging machine learning (ML) capabilities
+
+
+ design, implementation, and timely launch of Google's customer-facing API security SaaS product, leveraging machine learning (ML) capabilities.
 EXPERIENCE
-Principal Technical Program Manager at Google / EPAM		Apr 2022 - Apr 2023 
-Led cross-function 30+ member team through NPI from ideation, design, implementation and product launch.  of new Customer facing Machine Learning (ML) SaaS security product under Google brand.
-- Led the adoption of Agile software development methodologies, introducing sprint planning and retrospectives. As Scrum Master, drove Agile rituals and fostered a culture of continuous improvement, resulting in 18% increased engineering efficiency and increased delivery cadence.
-- Pioneered implementation of engineering standards and processes such as continuous integration (CI), unit testing, automated testing, and code review workflows, Infrastructure as Code (IaC) to improve product quality and velocity, resulting in accelerated development cycles and improved customer satisfaction. 
-- Engaged with technical leaders to pinpoint challenges, converting them into practical ML problems with effective solutions that boosted business outcomes. Skillfully conveyed intricate ML model concepts and results to both technical and non-technical stakeholders.
-- Implemented data-driven decision-making processes, leveraging custom analytics reports in Tableau / Looker and critical path analysis in MS Project, to balance long-term vision with immediate business needs.
-- Directed SW delivery with a strong focus on architectural principles, aiming to ensure scalability, flexibility, and seamless collaboration between teams. By strategically aligning technology choices and design decisions. 
+EPAM, Jan 2013 - Apr 2023
+Client: Google
+Principal Technical Program Manager, Apr 2022 - Apr 2023 
+Led 30+ member cross-functional team through NPI from ideation, design, implementation, and product launch.  new customer facing machine learning (ML) SaaS security product under the Google brand.
+Led the adoption of Agile development methodologies. As scrum master, drove Agile rituals and fostered a culture of continuous improvement, resulting in an 18% increase in engineering efficiency and increased delivery cadence.
+Pioneered implementation of engineering standards and processes such as continuous integration (CI), unit testing, automated testing, and code review workflows, Infrastructure as Code (IaC) to improve product quality and velocity, resulting in accelerated development cycles and improved customer satisfaction.
+Engaged with technical leaders to pinpoint challenges, converting them into practical ML problems with effective solutions that boosted business outcomes. Skillfully conveyed intricate ML model concepts and results to both technical and non-technical stakeholders.
+Partnered with Product Management to strategize the NPI roadmap for engineering. Defined schedule, milestones, mitigated risks, measured KPIs, and ensured achievement of success factors for successful SaaS product delivery.
+Implemented data-driven decision-making processes, leveraging custom analytics reports in Tableau / Looker and critical path analysis in MS Project, to balance long-term vision with immediate business needs.
+Engineering Director, Apr 2017 - Mar 2022
+Managed flagship software engineering programs for Google with a  $20M annual budget and 100+ headcount from inception to general availability. 
+Designed and implemented scalable backend systems using Cassandra, Kafka, GraphQL, Tableau for processing and analyzing large volumes of data, improving overall system performance by 25%.
+Recruited, mentored, and led 7 Engineering Managers and Technical PM. Fostering a diverse community through servant-leadership, advising in tech, program management, and ethics, inspiring professional growth.
+Anticipated stakeholder needs and proactively developed and discussed potential solutions to business issues, leveraging expertise in application development, cloud platforms (AWS/GCP), and micro services architecture to deliver innovative and scalable solutions.
+Initiated cloud migration programs from assessment through planning, platform selection, ensured compliance, executed migration, monitored performance, and optimized costs. Implemented engineering standards and processes, leveraging Jenkins, Puppet, SonarQube and Git, to ensure the highest level of excellence in product quality and SW delivery velocity. 
+Client: Amway
+Senior Technical Program Manager Jul 2016 - Mar 2017
+Launched an omni-channel e-commerce implementation for Amway using the SAP Hybris e-commerce platform. Hired and managed a 90+ member team, launching the program and instituting robust SDLC, QA processes, and CI/CD  resulting in improved team performance, with 4 distributed teams operating seamlessly.
+Client: MVideo
+Technical Program Manager, Apr 2015 - Jun 2016
+Built a 60+ member cross-functional team in the iterative implementation of Oracle ATG Web Commerce for MVideo, a leading Russian consumer electronics retailer. Achieved seamless integration with Oracle Siebel and successfully implemented a customer loyalty system resulting in a 24% increase in .
+Client: Gazprombank
+Engineering Team Lead, Jan 2013 - Mar 2015
+Led a 15-member engineering team, focusing on new feature implementation and performance optimization of the enterprise serial bus using IBM WebSphere.
+Ugoria
+Head of System Analysis, Mar 2012 - Dec 2012
+Led the integration of All-Russian Insurance Association's API into Ugoria’s automotive underwriting process resulting in the launch of a new insurance product, which enjoyed overwhelmingly positive feedback from customers.
+BCS Financial Group
+Head of Business Analysis, Oct 2010 - Feb 2012
+Established a 6-member team of business analysts in refactoring and implementing front-desk processes and back-end processes that resulted in
 
-Engineering Director at Google / EPAM					Apr 2017 - Mar 2022 
-Managed flagship software engineering programs for Google of $20M annual budget and 100+ headcount from inception to general availability. 
-- Model compliance with company policies and procedures and support company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; and demonstrating and assisting others with how to apply these in executing business processes and practices.
-- Led cloud migration programs from assessment through planning, platform selection, ensured compliance, executed migration, monitored performance, and optimized costs. Implemented engineering standards and processes, leveraging Jenkins, Puppet, SonarQube and Git, to ensure the highest level of excellence in product quality and SW delivery velocity. 
-- Partnered with internal stakeholders and Vendor Management to establish program governance, define a metrics-driven approach to KPI reporting, and drive data-informed executive decisions. This approach yielded enhanced speed, quality, and ROI. Actively identified and mitigated program risks and managed external dependencies.
-- Implemented impactful open-source community engagement initiatives, driving collaboration and knowledge sharing with external developers. Resulted in a 30% increase in contributions to open-source projects hosted on GitHub, leading to significant growth in the ecosystem.
+Master’s Degree at Perm State University / Russia. Major: Information and computer sciences Minor: Radio Physics and Electronics
 
-Senior Technical Program Manager at Amway / EPAM			Jul 2016 - Mar 2017
-Led Omni-channel E-commerce implementation for Amway using the SAP Hybris e-commerce platform. Hired and managed a 90+ member team, launching the program and instituting robust SDLC, QA processes, and CI/CD. This leadership resulted in stable team performance, with 4 distributed teams operating seamlessly.
-Technical Program Manager at MVideo / EPAM				Apr 2015 - Jun 2016
-Led a 60+ member cross-functional team in the iterative implementation of Oracle ATG Web Commerce for MVideo, a leading Russian consumer electronics retailer. Achieved seamless integration with Oracle Siebel and successfully implemented a customer loyalty system resulting in 24% increase in DAU.
-Engineering Team Lead at Gazprombank / EPAM			Jan 2013 - Mar 2015
-Led a 15-member engineering team, focusing on new feature implementation and performance optimization of the enterprise serial bus using IBM WebSphere MQ for Gazprombank.
-Head of System Analysis at Ugoria 					Mar 2012 - Dec 2012
-Led the integration of data services from the All-Russian Insurance Association's API into Ugoria’s automotive underwriting process. This initiative culminated in the design and launch of a new insurance product, which garnered overwhelmingly positive feedback from customers.
-Head of Business Analysis at BCS Financial Group			Oct 2010 - Feb 2012
-Led a 6-member team of business analysts in refactoring and implementing front-desk processes and back-end processes for brokerage products, culminating in the business process design for new structured financial products.
-Lead System Analyst at Verysell Holding					Sep 2008 - Sep 2010
-Led discovery, requirement gathering, business process analysis, and UAT for SAP R/3 - FI module implementation.
-Business Process Analyst at Parma Telecom				Oct 2007 - Aug 2008
-Documented the AS-IS state, defined the TO-BE state, and implemented changes to the PMO processes at Lukoil Overseas.
-Senior Software Engineer at Ladya Retail group				Oct 2002 - Sep 2007
-Integrated floor equipment, including bar-code scanners and smart scales, into the ERP system. 
-Implemented accounting and warehouse management modules for a retail chain.
-EDUCATION
-Master’s Degree at Perm State University / Russia. Major: Information and computer sciences. Minor: Radio Physics and Electronics. Graduation year: 2003
 PROFESSIONAL DEVELOPMENT
-Google Cloud Certified Professional Cloud Architect					   2018
-Certified SAFe 4 Agilist 									   2016
+Project Management Professional certification (PMP), 2023
+Google Cloud Certified Professional Cloud Architect, 2018
+Certified SAFe 4 Agilist, 2016	

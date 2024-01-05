@@ -41,7 +41,7 @@ def docx_replace(old_file, new_file, replacements):
                     paragraph.text = paragraph.text.replace(key, replacements[key])
     doc.save(new_file)
 
-totalrate=0
+
 def prep_rep(JD):
     global run_id
     replacements = {}
@@ -127,7 +127,7 @@ Return this data in the form of a JSON object where each key corresponds to the 
 
 
 def fast_response(myprompt):
-    beep(300, 250)
+    beep(300, 250)     #"gpt-3.5-turbo"
     chat_completion = openai.ChatCompletion.create(model="gpt-3.5-turbo",
                                                    messages=[
                                                        {"role": "user", "content": myprompt}
@@ -137,6 +137,7 @@ def fast_response(myprompt):
     return chat_completion.choices[0].message.content
 
 #____________________________________________________________________________________________________________
+totalrate=0
 with open('openai.key','r') as key_file:
     openai.api_key=key_file.read().strip()
 
@@ -172,20 +173,24 @@ for key, value in data_dict.items():
     if key == "company_name": company_name=value;
     if key == "position_name": position_name = value;
 print(company_name,' ',position_name)
-
+print('________________________________________________________')
 
 sqlcc.execute("SELECT * FROM run WHERE com LIKE ?", ('%' + company_name + '%',))
 rows = sqlcc.fetchall()
+requires_confirm_toproceed=0
 for row in rows:
     if row[5] == position_name:
         beep(500, 350)
         beep(500, 350)
         utc_time = datetime.datetime.strptime(row[1], '%Y-%m-%d %H:%M:%S')
         pst_time = utc_time - datetime.timedelta(hours=8)
-        print('--->',pst_time, row[4], row[5])
+        print("\033[91m", pst_time, row[4], row[5], "\033[0m")
+        requires_confirm_toproceed = 1
     else:
-        print('    ',row[1],row[4],row[5])
+        print('',row[1],row[4],row[5])
 
+if requires_confirm_toproceed:
+    input("Press Enter to continue, or Ctrl+C to abort!")
 
 values = (JDdoc, CVdoc, company_name, position_name)
 sqlcc.execute("INSERT INTO run (dt, jd, cv, com, pos) VALUES (datetime('now'), ?, ?, ?, ?)", values)
